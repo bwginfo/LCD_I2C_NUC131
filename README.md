@@ -1,4 +1,4 @@
-// This example shows various featues of the library for LCD with 16 chars and 2 lines.
+// This example shows various featues of the library for LCD with 20 chars and 4 lines.
 
 // NuMaker UNO nuc131 / Arduino 1.8.15
 
